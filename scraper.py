@@ -28,7 +28,7 @@ PALAVRAS_CHAVE_SUL = [c.lower() for c in CIDADE_PRIORIDADE_1]
 PALAVRAS_CHAVE_RJ = [c.lower() for c in CIDADE_PRIORIDADE_2]
 
 BANCO = "noticias.db"
-ARQUIVO_SAIDA = "../frontend/dados_noticias.json"
+ARQUIVO_SAIDA = "dados_noticias.json"
 PERIODICIDADE_MIN = 20
 # -----------------------------------------------------------
 
